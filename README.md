@@ -1,9 +1,6 @@
-### Hi there 👋
 
 
-**MiaH1nojosa123/MiaH1nojosa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+A little bit about me- 
 
 - 🔭 I am currently attending school
 - 🌱 I’m currently learning how to use more complex HTML
